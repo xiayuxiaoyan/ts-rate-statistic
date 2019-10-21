@@ -1,0 +1,17 @@
+{
+  "name": "ts-rate-statistic",
+  "version": "1.0.0",
+  "description": "statistic the project`s files of .ts rate",
+  "main": "index.js",
+  "bin": {
+    "tsrate": "index.js"
+  },
+  "scripts": {
+    "test": "node ./index.js"
+  },
+  "author": "xiaoyuxiaoyan",
+  "license": "ISC",
+  "dependencies": {
+    "chalk": "^2.4.2"
+  }
+}

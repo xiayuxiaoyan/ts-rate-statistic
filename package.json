@@ -1,6 +1,6 @@
 {
   "name": "ts-rate-statistic",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "statistic the project`s files of .ts rate",
   "main": "index.js",
   "bin": {
@@ -9,6 +9,15 @@
   "scripts": {
     "test": "node ./index.js"
   },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/xiayuxiaoyan/ts-rate-statistic.git"
+  },
+  "keywords": [
+    "tsratestatistic",
+    "ts-rate-statistic",
+    "ts rate"
+  ],
   "author": "xiaoyuxiaoyan",
   "license": "ISC",
   "dependencies": {
